@@ -1,0 +1,134 @@
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 230px;
+    bottom: 300px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+sub-title {
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.java {
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.web-development {
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 30px;
+    float: right;
+}
+
+.my-bio {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.middle-container {
+    line-height: 2;
+    margin-top: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    line-height: 2;
+    margin-top: 100px;
+    padding: 20px 0 5px 0;
+}
+
+.bottom-container a {
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.bottom-container a:hover {
+    color: #eaf6f6;
+}
+
+hr {
+    height: 0px;
+    border: none;
+    border-top: 6px dotted #EAF6F6;
+    width: 5%;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+.btn {
+    background: #66BFBF;
+    border-radius: 20px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: Trebuchet MS;
+    width: 180px;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 26px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn:hover{
+    background-color: #8ae9e9;
+}
